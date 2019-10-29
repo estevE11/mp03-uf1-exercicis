@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0b26b63-0e87-4ed1-a837-d4b43f632c23" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici07.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,10 +34,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SLdB2uGLIPRYj2xkrrZODHdMUb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -40,9 +56,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exercici07">
-    <configuration name="exercici03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici03" />
+  <component name="RunManager" selected="Application.exercici38">
+    <configuration name="exercici35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici35" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -54,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercici04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici04" />
+    <configuration name="exercici36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici36" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercici05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici05" />
+    <configuration name="exercici37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici37" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercici06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici06" />
+    <configuration name="exercici38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici38" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercici07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici07" />
+    <configuration name="exercici39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici39" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.exercici07" />
-        <item itemvalue="Application.exercici06" />
-        <item itemvalue="Application.exercici05" />
-        <item itemvalue="Application.exercici04" />
-        <item itemvalue="Application.exercici03" />
+        <item itemvalue="Application.exercici38" />
+        <item itemvalue="Application.exercici37" />
+        <item itemvalue="Application.exercici39" />
+        <item itemvalue="Application.exercici36" />
+        <item itemvalue="Application.exercici35" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571346670749</updated>
       <workItem from="1571346673286" duration="2007000" />
+      <workItem from="1572372447419" duration="3673000" />
     </task>
     <servers />
   </component>
@@ -138,7 +155,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
