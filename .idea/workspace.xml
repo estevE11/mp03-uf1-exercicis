@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0b26b63-0e87-4ed1-a837-d4b43f632c23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici41.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici07.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,33 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exercici38">
-    <configuration name="exercici35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici35" />
-      <module name="mp03-uf1-exercicis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cat.esteve.exercicis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exercici36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici36" />
-      <module name="mp03-uf1-exercicis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cat.esteve.exercicis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.exercici41">
     <configuration name="exercici37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici37" />
       <module name="mp03-uf1-exercicis" />
@@ -122,13 +85,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercici40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici40" />
+      <module name="mp03-uf1-exercicis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cat.esteve.exercicis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercici41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici41" />
+      <module name="mp03-uf1-exercicis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cat.esteve.exercicis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercici41" />
+        <item itemvalue="Application.exercici40" />
         <item itemvalue="Application.exercici38" />
         <item itemvalue="Application.exercici37" />
         <item itemvalue="Application.exercici39" />
-        <item itemvalue="Application.exercici36" />
-        <item itemvalue="Application.exercici35" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571346670749</updated>
       <workItem from="1571346673286" duration="2007000" />
-      <workItem from="1572372447419" duration="3673000" />
+      <workItem from="1572372447419" duration="5828000" />
     </task>
     <servers />
   </component>
