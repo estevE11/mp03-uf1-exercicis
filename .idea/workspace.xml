@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0b26b63-0e87-4ed1-a837-d4b43f632c23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/pdf/Exercicis 02 Bucles.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,6 +45,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="R:\dev\java\mp03-uf1-exercicis\src\cat\esteve\exercicis\pdf" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -59,9 +62,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exercici47">
-    <configuration name="exercici43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici43" />
+  <component name="RunManager" selected="Application.exercici51">
+    <configuration name="exercici48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici48" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercici44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici44" />
+    <configuration name="exercici49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici49" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercici45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici45" />
+    <configuration name="exercici50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici50" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercici46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici46" />
+    <configuration name="exercici51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici51" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercici47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici47" />
+    <configuration name="exercici52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici52" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.exercici47" />
-        <item itemvalue="Application.exercici46" />
-        <item itemvalue="Application.exercici45" />
-        <item itemvalue="Application.exercici44" />
-        <item itemvalue="Application.exercici43" />
+        <item itemvalue="Application.exercici51" />
+        <item itemvalue="Application.exercici52" />
+        <item itemvalue="Application.exercici50" />
+        <item itemvalue="Application.exercici49" />
+        <item itemvalue="Application.exercici48" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +150,8 @@
       <updated>1571346670749</updated>
       <workItem from="1571346673286" duration="2007000" />
       <workItem from="1572372447419" duration="5954000" />
-      <workItem from="1572534748627" duration="2273000" />
+      <workItem from="1572534748627" duration="2722000" />
+      <workItem from="1572974919778" duration="4655000" />
     </task>
     <servers />
   </component>
