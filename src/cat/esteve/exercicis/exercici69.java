@@ -42,8 +42,9 @@ public class exercici69 {
         }
         System.out.println("Caracters " + chars + " Paraules " + words + " Linies " + lines);
     }
-        // Metode per llegit nomes un caracter i donar error quan s'introdueixi mes d'un caracter.
-    // Ja se que no hem fet metodes, pero no crec que marqui molt la diferencia, i fa el codi mes maco.
+
+    // Metode per llegit nomes un caracter i donar error quan s'introdueixi mes d'un caracter.
+    // Ja se que no hem fet funcions, pero no crec que marqui molt la diferencia, i fa el codi mes maco.
     private static char readChar(Scanner sc) {
         String in = sc.nextLine();
         if(in .length() > 1) {
