@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0b26b63-0e87-4ed1-a837-d4b43f632c23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici71.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici72.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici73.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici74.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici81.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici56.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici56.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici75.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mp03-uf1-exercicis/cat/esteve/exercicis/exercici75.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici56.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cat/esteve/exercicis/exercici75.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bilis" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -63,9 +68,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exercici71">
-    <configuration name="exercici70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici70" />
+  <component name="RunManager" selected="Application.exercici81">
+    <configuration name="exercici56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici56" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercici71" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici71" />
+    <configuration name="exercici77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici77" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercici72" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici72" />
+    <configuration name="exercici78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici78" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercici73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici73" />
+    <configuration name="exercici79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici79" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercici74" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici74" />
+    <configuration name="exercici81" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.exercicis.exercici81" />
       <module name="mp03-uf1-exercicis" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.exercici71" />
-        <item itemvalue="Application.exercici74" />
-        <item itemvalue="Application.exercici73" />
-        <item itemvalue="Application.exercici72" />
-        <item itemvalue="Application.exercici70" />
+        <item itemvalue="Application.exercici81" />
+        <item itemvalue="Application.exercici56" />
+        <item itemvalue="Application.exercici79" />
+        <item itemvalue="Application.exercici78" />
+        <item itemvalue="Application.exercici77" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +163,17 @@
       <workItem from="1573483602635" duration="5849000" />
       <workItem from="1573583916117" duration="218000" />
       <workItem from="1573646741800" duration="3917000" />
-      <workItem from="1573670707213" duration="2451000" />
+      <workItem from="1573670707213" duration="2892000" />
+      <workItem from="1573674103649" duration="667000" />
+      <workItem from="1573737315036" duration="628000" />
+      <workItem from="1573812159064" duration="600000" />
+      <workItem from="1574074538774" duration="1429000" />
+      <workItem from="1574085946641" duration="1089000" />
+      <workItem from="1574088760181" duration="7132000" />
+      <workItem from="1574098770467" duration="600000" />
+      <workItem from="1574186960910" duration="8000" />
+      <workItem from="1574187633724" duration="376000" />
+      <workItem from="1574447529182" duration="565000" />
     </task>
     <servers />
   </component>

@@ -10,9 +10,8 @@ public class exercici56 {
         Scanner sc = new Scanner(System.in);
 
         int count = 0;
-        String in = sc.next();
-        while(!in.equals("\n")) {
-            System.out.println("Still here");
+        String in = sc.nextLine();
+        while(in.length() > 0) {
             if(in.length() > 1) {
                 System.out.println("ERROR: Input length must be 1.");
                 System.exit(1);
@@ -20,11 +19,9 @@ public class exercici56 {
             if(in.equals("A") || in.equals("a")) {
                 count++;
             }
-            System.out.println(count);
-            in = sc.next();
-            System.out.println("asdfasdfasfsadfs");
+            in = sc.nextLine();
+
         }
-        System.out.println("asdfasdfasfsadfs");
         System.out.println("Hi havia un tot al de " + count + " lletres A.");
     }
 }
