@@ -3,10 +3,9 @@ package cat.esteve.exercicis;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class exercici81 {
-    // 81. Introduir un conjunt de números pel teclat i guardar-los en una taula finalitzant la seqüencia
-    // amb el 0. Després caldrà calcular la mitja i dir quants números son més grans que la mitja i
-    // quants son més petits.
+public class exercici82 {
+    // 82.Igual que el 81 però en lloc de dir quants caldrà mostrar tots els números dient si són més grans
+    // o més petits que la mitja
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -24,13 +23,8 @@ public class exercici81 {
         }
         avg /= nums.size();
 
-        int hi = 0;
-        int low = 0;
         for(int it : nums) {
-            if(it > avg) hi++;
-            if(it < avg) low++;
+            System.out.println("El numero " + it  + " es mes " + (it > avg ? "gran" : "petit") + " que la mitjana. (" + avg + ")");
         }
-
-        System.out.println("AVG:  " + avg + ". Hi ha " + hi + " nombres per sobre mitja i " + low + " per sota.");
     }
 }
